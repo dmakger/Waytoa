@@ -1,4 +1,0 @@
-North 5
-South 19
-East 20
-West 10
