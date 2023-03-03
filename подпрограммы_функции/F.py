@@ -27,20 +27,14 @@ def judging(*args):
         if minn != v != maxx:
             count += 1
             summ += v
-    result = f"{summ / count}"
-    parts = result.split('.')
-    if len(parts[1]) < 2:
-        return minn, maxx, result + '0'
-    return minn, maxx, parts[0] + '.' + parts[1][:2]
+
+    return minn, maxx, f"{summ / count:.{2}f}"
 
 
 # def judging(*args):
 #     minn, maxx = min(args), max(args)
 #     result = f"{sum(args) - minn - maxx / (len(args) - 2)}"
-#     parts = result.split('.')
-#     if len(parts[1]) < 2:
-#         return minn, maxx, result + '0'
-#     return minn, maxx, parts[0] + '.' + parts[1][:2]
+#     return minn, maxx, f"{result:.{2}f}"
 
 
 def main():
