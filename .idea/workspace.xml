@@ -18,18 +18,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46dd8ba6-88c7-482c-9f35-ff61d73f3974" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/8. for basic/A/A.cpp" afterDir="false" />
+    <list default="true" id="46dd8ba6-88c7-482c-9f35-ff61d73f3974" name="Changes" comment="Сделал [A. Ряд - 1]. Цикл for: basic. Informatics: C++ Start">
       <change afterPath="$PROJECT_DIR$/8. for basic/B/B.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/8. for basic/B/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pro.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8. for basic/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8. for basic/A/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/8. for basic/A/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
@@ -72,7 +67,17 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.A.cpp">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\waytoa\cplusplus\8. for basic\B" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\waytoa\cplusplus\8. for basic\B" />
+      <recent name="D:\Work\waytoa\cplusplus\8. for basic\A" />
+      <recent name="D:\Work\waytoa\cplusplus\8. for basic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.B.cpp (1)">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -98,8 +103,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.A.cpp" />
         <item itemvalue="C/C++ File.B.cpp (1)" />
+        <item itemvalue="C/C++ File.A.cpp" />
         <item itemvalue="C/C++ File.B.cpp" />
       </list>
     </recent_temporary>
@@ -112,11 +117,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678089183814</updated>
-      <workItem from="1678089185253" duration="595000" />
+      <workItem from="1678089185253" duration="1908000" />
     </task>
+    <task id="LOCAL-00001" summary="Сделал [A. Ряд - 1]. Цикл for: basic. Informatics: C++ Start">
+      <created>1678089909773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678089909773</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Сделал [A. Ряд - 1]. Цикл for: basic. Informatics: C++ Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал [A. Ряд - 1]. Цикл for: basic. Informatics: C++ Start" />
   </component>
 </project>
