@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.24)
+project(cplusplus)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(cplusplus
+#        "8. for basic/A.cpp"
+        "../A/A.cpp"
+        )

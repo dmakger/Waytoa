@@ -1,0 +1,6 @@
+# ninja log v5
+1	1134	6997926487430451	CMakeFiles/cplusplus.dir/8._for_basic/A.cpp.obj	a7395784d693cec2
+1136	1652	6997926492568937	cplusplus.exe	3779a9791ad59237
+4	436	6997926939638347	CMakeFiles/cplusplus.dir/8._for_basic/B.cpp.obj	9d35311a43bc4b03
+1	378	6997927711179001	build.ninja	ad5ec05f0c724cb9
+3	194	6997927714758981	cplusplus.exe	c3820a42814a7581
