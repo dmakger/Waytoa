@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -19,8 +19,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46dd8ba6-88c7-482c-9f35-ff61d73f3974" name="Changes" comment="Сделал [C. Ряд - 2]. Цикл for: basic. Informatics: C++ Start">
+      <change afterPath="$PROJECT_DIR$/8. for basic/D/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8. for basic/D/D.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8. for basic/C/C.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/8. for basic/C/C.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "D:/Work/waytoa/cplusplus/8. for basic/C",
+    "last_opened_file_path": "D:/Work/waytoa/cplusplus/8. for basic",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,6 +67,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\waytoa\cplusplus\8. for basic" />
       <recent name="D:\Work\waytoa\cplusplus\8. for basic\C" />
       <recent name="D:\Work\waytoa\cplusplus\8. for basic\B" />
     </key>
@@ -75,10 +77,10 @@
       <recent name="D:\Work\waytoa\cplusplus\8. for basic" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.C.cpp">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+  <component name="RunManager" selected="C/C++ File.D.cpp">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cplusplus" TARGET_NAME="A.cpp" CONFIG_NAME="A.cpp">
@@ -105,8 +107,15 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="D.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cplusplus" TARGET_NAME="D.cpp" CONFIG_NAME="D.cpp">
+      <option name="sourceFile" value="8. for basic\D\D.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.D.cpp" />
         <item itemvalue="C/C++ File.C.cpp" />
         <item itemvalue="C/C++ File.B.cpp (1)" />
         <item itemvalue="C/C++ File.A.cpp" />
@@ -122,7 +131,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678089183814</updated>
-      <workItem from="1678089185253" duration="3839000" />
+      <workItem from="1678089185253" duration="3897000" />
+      <workItem from="1678278413970" duration="1351000" />
     </task>
     <task id="LOCAL-00001" summary="Сделал [A. Ряд - 1]. Цикл for: basic. Informatics: C++ Start">
       <created>1678089909773</created>
@@ -145,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678092171787</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Сделал [C. Ряд - 2]. Цикл for: basic. Informatics: C++ Start">
+      <created>1678096464800</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678096464801</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
