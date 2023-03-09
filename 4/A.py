@@ -25,16 +25,11 @@
 # Если два кролика никогда не окажутся в одной точке одновременно, выведите −1.
 
 def get_result(x, y, a, b):
-    x_cur = x
-    y_cur = y
-    count = 0
-    while x_cur < y_cur:
-        x_cur += a
-        y_cur -= b
-        count += 1
-    if x_cur == y_cur:
-        return count
-    return -1
+    distance = y - x
+    step = a + b
+    if distance % step:
+        return -1
+    return distance // step
 
 
 def main():
