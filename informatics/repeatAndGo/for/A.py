@@ -7,14 +7,13 @@
 # Выходные данные
 # Выведите ответ на задачу.
 
-
 def main():
     for x in range(10, 100):
         r = 1
         for c in str(x):
             r *= int(c)
-        if r*2 == x:
-            print(x, end=" ")
+        if x == r * 2:
+            print(x, end=' ')
 
 
 if __name__ == '__main__':
